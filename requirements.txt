@@ -1,21 +1,29 @@
-bqplot
-ipycanvas>=0.9.1
-ipyevents>=2.0.1
-ipyleaflet
-ipympl>=0.8.2
-ipywidgets>=8.0.0,<9
+#bqplot https://bqplot.readthedocs.io/en/latest/introduction.html#:~:text=bqplot%20is%20a%20Grammar%20of,simple%20lines%20of%20Python%20code.
+#ipycanvas>=0.9.1 https://ipycanvas.readthedocs.io/en/latest/
+#ipyevents>=2.0.1 https://ipyevents.readthedocs.io/en/latest/index.html
+
+#ipyleaflet https://towardsdatascience.com/ipyleaflet-interactive-mapping-in-jupyter-notebook-994f19611e79
+#ipympl>=0.8.2 https://matplotlib.org/ipympl/#:~:text=ipympl%20enables%20using%20the%20interactive,page%20will%20not%20be%20interactive.
+#ipywidgets>=8.0.0,<9 https://ipywidgets.readthedocs.io/en/stable/
+
+# What is Jupyter -> https://jupyter.org/#:~:text=JupyterLab%20is%20the%20latest%20web,computational%20journalism%2C%20and%20machine%20learning.
 jupyterlab~=3.4.7
-jupyterlab-drawio
-jupyterlab-language-pack-fr-FR
-jupyterlab-language-pack-zh-CN
-jupyterlab-fasta>=3,<4
-jupyterlab-geojson>=3,<4
-jupyterlab-tour
-jupyterlab_miami_nights
+
+#jupyterlab-drawio https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919
+#jupyterlab-language-pack-fr-FR https://jupyterlab.readthedocs.io/en/stable/user/language.html
+#jupyterlab-language-pack-zh-CN
+#jupyterlab-fasta>=3,<4 https://pypi.org/project/jupyterlab-fasta/#:~:text=A%20JupyterLab%20extension%20for%20rendering,uses%20the%20MSA%20Fasta%20viewer.
+#jupyterlab-geojson>=3,<4 https://pypi.org/project/jupyterlab-geojson/
+#jupyterlab-tour https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb
+#jupyterlab_miami_nights -> Just a theme for jupyter lab with glowing 80s theme
+
+#What is Jupyterlite -> https://jupyterlite.readthedocs.io/en/latest/
 jupyterlite==0.1.0b13
-jupyterlite-p5-kernel==0.1.0a12
-jupyterlite-xeus-lua==0.3.1
-jupyterlite-xeus-wren==0.2.1
-jupyterlite-xeus-sqlite==0.2.1
-plotly>=5,<6
-theme-darcula
+
+#jupyterlite-p5-kernel==0.1.0a12 https://pypi.org/project/jupyterlite-p5-kernel/
+#jupyterlite-xeus-lua==0.3.1
+#jupyterlite-xeus-wren==0.2.1
+
+#jupyterlite-xeus-sqlite==0.2.1
+#plotly>=5,<6 https://plotly.com/
+#theme-darcula -> Dark Theme for jupyter lab
