@@ -15,7 +15,7 @@ jupyterlab~=3.4.7
 #jupyterlab-fasta>=3,<4 https://pypi.org/project/jupyterlab-fasta/#:~:text=A%20JupyterLab%20extension%20for%20rendering,uses%20the%20MSA%20Fasta%20viewer.
 #jupyterlab-geojson>=3,<4 https://pypi.org/project/jupyterlab-geojson/
 #jupyterlab-tour https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb
-#jupyterlab_miami_nights -> Just a theme for jupyter lab with glowing 80s theme
+jupyterlab_miami_nights #-> Just a theme for jupyter lab with glowing 80s theme
 
 #What is Jupyterlite -> https://jupyterlite.readthedocs.io/en/latest/
 jupyterlite==0.1.0b13

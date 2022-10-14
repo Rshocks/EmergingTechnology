@@ -10,6 +10,7 @@ on:
   push:
     branches:
       - main
+  # Pull request
   pull_request:
     branches:
       - '*'

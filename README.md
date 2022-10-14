@@ -1,29 +1,15 @@
-# JupyterLite Demo
+# Emerging Technology 2022
+![image info](./pictures/atu.jpg)
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+This is the repository where all my work done during Emerging Technology module BSc (Hons) in Software Development at Atlantic Technological University (ATU), using jupyter notebook/jupyterlite.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+My instance for Jupyterlite can be seen on my GitHub Pages at -> https://rshocks.github.io/EmergingTechnology/lab/index.html
 
-## ✨ Try it in your browser ✨
+## Interacting with my repository
 
-➡️ **https://jupyterlite.github.io/demo**
+## Docs for deploying JupyterLite website on GitHub Pages
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+Guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+## Further Information and Refernces
+IBM's explanation for Quantum Computing -> https://www.ibm.com/topics/quantum-computing
