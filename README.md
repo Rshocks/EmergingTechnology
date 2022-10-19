@@ -1,5 +1,5 @@
 # Emerging Technology 2022
-![image info](./pictures/atu.jpg =200x40)
+![image info](./pictures/atu.jpg)
 
 This is the repository where all my work done during Emerging Technology module BSc (Hons) in Software Development at Atlantic Technological University (ATU), using jupyter notebook/jupyterlite.
 
