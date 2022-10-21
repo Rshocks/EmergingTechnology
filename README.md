@@ -6,9 +6,9 @@ This is the repository where all my work done during Emerging Technology module 
 My instance for Jupyterlite can be seen on my GitHub Pages at -> https://rshocks.github.io/EmergingTechnology/lab/index.html
 
 ## Interacting/About this repository
-- First item Interaction with this repository can be done in Jupyterlite, the link is above. Jupyterlite is a full static jupyter distribution which runs in the browser, it does not need python jupyter server to be running locally, saving install space on a PC.
+- Interaction with this repository can be done in Jupyterlite, the link is above. Jupyterlite is a full static jupyter distribution which runs in the browser, it does not need python jupyter server to be running locally, saving install space on a PC.
 
-- Second item Interaction can also be done locally, by cloning this repository to a folder on your local PC. Then installing Jupyter Notebook, then running the command Jupyter Notebook in the command line of your chosen folder.
+- Interaction can also be done locally, by cloning this repository to a folder on your local PC. Then installing Jupyter Notebook, then running the command Jupyter Notebook in the command line of your chosen folder.
 
 ## Docs for deploying JupyterLite website on GitHub Pages
 
