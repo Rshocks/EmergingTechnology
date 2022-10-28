@@ -11,7 +11,7 @@ My instance for Jupyterlite can be seen on my GitHub Pages at -> https://rshocks
 - Interaction can also be done locally, by cloning this repository to a folder on your local PC. Then installing Jupyter Notebook, then running the command Jupyter Notebook in the command line of your chosen folder.
 
 - My Jupyter Notebook's can be seen also through GitHub by clicking the content folder above.
-
+j
 ## Docs for deploying JupyterLite website on GitHub Pages
 
 Guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
@@ -19,4 +19,4 @@ Guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/la
 ## Further Information and Refernces
 - IBM's explanation for Quantum Computing -> https://www.ibm.com/topics/quantum-computing
 - Defination of Computation -> https://mathworld.wolfram.com/Computation.html
-- -> https://www.markdownguide.org/basic-syntax/
+- Guide of basic markdown syntax -> https://www.markdownguide.org/basic-syntax/
