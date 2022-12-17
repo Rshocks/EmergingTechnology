@@ -20,3 +20,5 @@ Guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/la
 - IBM's explanation for Quantum Computing -> https://www.ibm.com/topics/quantum-computing
 - Defination of Computation -> https://mathworld.wolfram.com/Computation.html
 - Guide of basic markdown syntax -> https://www.markdownguide.org/basic-syntax/
+- Quantum Fourier Transform in qiskit -> https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html
+- Quantum Logic Gates -> https://en.wikipedia.org/wiki/Quantum_logic_gate
